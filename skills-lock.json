@@ -86,6 +86,16 @@
       "sourceType": "github",
       "computedHash": "3ab51ecf38f8d686d234641fc66583f2b8fd615da86eccc8c88efc0e2c94d6d6"
     },
+    "context7-cli": {
+      "source": "upstash/context7",
+      "sourceType": "github",
+      "computedHash": "2c09d102a9a6c5e6a06e2cc8a5641947270aa977e8e37c7e532719badf1575e6"
+    },
+    "context7-mcp": {
+      "source": "upstash/context7",
+      "sourceType": "github",
+      "computedHash": "6b02383f86f87e81a722b3b6c6d6e06efa5c72f23bc87bb02599e3d499ca2c58"
+    },
     "continuous-agent-loop": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -200,6 +210,11 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "8b74b0b4c5846570368e3d78119d684ae850f33910ed5f64d4b5320edc75ccec"
+    },
+    "find-docs": {
+      "source": "upstash/context7",
+      "sourceType": "github",
+      "computedHash": "b631499b08026841fe535f17927d692fc37d29111032ee1991e55ecec1f937be"
     },
     "foundation-models-on-device": {
       "source": "affaan-m/everything-claude-code",
